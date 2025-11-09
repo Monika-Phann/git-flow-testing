@@ -8,5 +8,5 @@ def add_numbers(a, b):
     return result
 
 if __name__ == "__main__":
-    test_result = add_numbers(5, 3)
+    test_result = add_numbers(5, 30)
     print(f"Test in first-function.py: {test_result}") 
