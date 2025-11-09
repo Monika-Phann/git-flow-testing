@@ -8,5 +8,5 @@ def minus_numbers(a, b):
     return result
 
 if __name__ == "__main__":
-    test_result = minus_numbers(5, 10)
+    test_result = minus_numbers(50, 50)
     print(f"Test in second-function.py: {test_result}") 
